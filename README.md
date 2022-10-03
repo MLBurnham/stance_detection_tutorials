@@ -6,8 +6,6 @@ This repository includes tutorials to accompany Stance Detection: [A Practical G
 
 * [Supervised training](https://colab.research.google.com/drive/1PvNNq-KywmMClfatNei6Zyf_Usqc9hKa?usp=sharing)
 
-* <a href="https://colab.research.google.com/drive/1PvNNq-KywmMClfatNei6Zyf_Usqc9hKa?usp=sharing" target="_blank">Supervised training</a>
-
 * [Zero-shot NLI classification](https://colab.research.google.com/drive/1YLmI2WMkIVpgeUobgMDVXkjf8JfbRxvW?usp=sharing)
 
 * [In-context classification](https://colab.research.google.com/drive/19t-DTYY2PVXO6IGtCf9xsDit2PNCZ5jI?usp=sharing)
