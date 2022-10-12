@@ -1,6 +1,6 @@
 # Stance Detection Tutorials
 
-This repository includes tutorials to accompany Stance Detection: [A Practical Guide With Supervised, Zero-Shot, and Few-Shot Applications](https://drive.google.com/file/d/1LAbQ0zzBqXImq-Go38bSp6AqVvvYFwU0/view?usp=sharing)
+This repository includes tutorials to accompany Stance Detection: [A Practical Guide With Supervised, Zero-Shot, and Few-Shot Applications](https://drive.google.com/file/d/1RQ1FkpGrk9TliN9gu-LLfo9-ni-ZGQ8-/view?usp=sharing)
 
 ## In addition to the notebooks in this repository, I've uploaded versions to Google Colab
 
